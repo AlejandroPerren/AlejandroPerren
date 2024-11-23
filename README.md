@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Alejandro Perren</h1>
-<h3 align="center">Desarrollador Full Stack apasionado por crear soluciones modernas y funcionales desde Argentina.</h3>
+<h3 align="center">Desarrollador Full Stack desde Argentina.</h3>
 
 ---
 
@@ -8,7 +8,6 @@ Soy un desarrollador Full Stack con experiencia en frontend y backend, especiali
 Mi enfoque está en utilizar herramientas modernas como **React**, **TypeScript** y **Node.js** para construir proyectos con calidad profesional.  
 
 Siempre estoy aprendiendo nuevas tecnologías para mejorar mis habilidades y contribuir al mundo del desarrollo web.  
-Cuando no estoy programando, me gusta explorar herramientas de diseño y personalizar mis experiencias en videojuegos.  
 
 ---
 
@@ -27,7 +26,6 @@ Cuando no estoy programando, me gusta explorar herramientas de diseño y persona
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>  
@@ -36,6 +34,7 @@ Cuando no estoy programando, me gusta explorar herramientas de diseño y persona
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>  
 
 ### 💾 **Bases de datos**  
