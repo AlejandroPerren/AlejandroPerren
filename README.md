@@ -8,8 +8,10 @@ Mi enfoque está en utilizar herramientas modernas como React, TypeScript, y Nod
 Siempre estoy aprendiendo nuevas tecnologías para mejorar mis habilidades y contribuir al mundo del desarrollo web. Cuando no estoy programando, me gusta explorar herramientas de diseño y personalizar mis experiencias en videojuegos.
 
 🌐 Conecta conmigo
+<br>
 <a href="https://linkedin.com/in/ale (tomas) perren" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ale (tomas) perren" height="30" width="40" /> </a>
 <br>
+<hr>
 🛠️ Tecnologías que uso
 <br>
 🌟 Frontend
