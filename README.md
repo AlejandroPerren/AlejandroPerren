@@ -2,7 +2,7 @@
 
 ¡Hola! Soy Alejandro Perren, Desarrollador Full Stack, apasionado por el desarrollo web moderno y siempre buscando aprender y crecer en el mundo de la tecnología.
 
-
+-- 
 💻 Tecnologías que utilizo
 Frontend
 ⚛️ React
