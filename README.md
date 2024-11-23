@@ -9,7 +9,7 @@ Siempre estoy aprendiendo nuevas tecnologías para mejorar mis habilidades y con
 
 🌐<h2>Conecta conmigo</h2>
 <br>
-<br>
+
 <a href="https://linkedin.com/in/ale (tomas) perren" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ale (tomas) perren" height="30" width="40" /> </a>
 <br>
 <hr>
