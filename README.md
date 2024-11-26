@@ -4,7 +4,7 @@
 ---
 
 ## 💡 Sobre mí  
-Soy un desarrollador Full Stack con experiencia en frontend y backend, especializado en crear aplicaciones web responsivas, escalables y con una experiencia de usuario óptima.  
+Soy un desarrollador Full Stack , especializado en crear aplicaciones web responsivas, escalables y con una experiencia de usuario óptima.  
 Mi enfoque está en utilizar herramientas modernas como **React**, **TypeScript** y **Node.js** para construir proyectos con calidad profesional.  
 
 Siempre estoy aprendiendo nuevas tecnologías para mejorar mis habilidades y contribuir al mundo del desarrollo web.  
