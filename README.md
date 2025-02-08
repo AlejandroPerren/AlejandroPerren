@@ -53,9 +53,15 @@ Siempre estoy aprendiendo nuevas tecnologías para mejorar mis habilidades y con
 
 ## 📊 Estadísticas de GitHub  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical" alt="Racha de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlejandroPerren&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroPerren&theme=radical" alt="Racha de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroPerren&layout=compact&theme=radical" alt="Lenguajes más usados" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlejandroPerren&theme=radical" alt="Gráfico de actividad" />
 </p>
 
 ---
