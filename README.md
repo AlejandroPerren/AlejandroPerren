@@ -51,5 +51,14 @@ Siempre estoy aprendiendo nuevas tecnologías para mejorar mis habilidades y con
 
 ---
 
+## 📊 Estadísticas de GitHub  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical" alt="Racha de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical" alt="Lenguajes más usados" />
+</p>
+
+---
+
 ### Gracias por visitar mi perfil ✨  
 ¡No dudes en contactarme o explorar mis repositorios!  
