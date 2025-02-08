@@ -60,11 +60,5 @@ Siempre estoy aprendiendo nuevas tecnologías para mejorar mis habilidades y con
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlejandroPerren&theme=radical" alt="Gráfico de actividad" />
-</p>
-
----
-
 ### Gracias por visitar mi perfil ✨  
 ¡No dudes en contactarme o explorar mis repositorios!  
