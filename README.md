@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Alejandro Perren</h1>
 <h3 align="center">Desarrollador Full Stack | Técnico en Desarrollo de Software | Argentina</h3>
 <p align="center">
-  <img src="./adc3f9ae-8de5-4dcf-b1eb-9d748915281a.png" alt="Alejandro Perren - Backend Dev" width="400px" />
+  <img src="./Alejandro.png" alt="Alejandro Perren - Backend Dev" width="400px" />
 </p>
 ---
 
