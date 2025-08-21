@@ -1,11 +1,12 @@
 <h1 align="center">Hola 👋, soy Alejandro Perren</h1>
-<h3 align="center">Desarrollador Full Stack desde Argentina.</h3>
+<h3 align="center">Desarrollador Full Stack | Técnico en Desarrollo de Software | Argentina</h3>
 
 ---
 
 ## 💡 Sobre mí  
-Soy un desarrollador Full Stack , especializado en crear aplicaciones web responsivas, escalables y con una experiencia de usuario óptima.  
-Mi enfoque está en utilizar herramientas modernas como **React**, **TypeScript** y **Node.js** para construir proyectos con calidad profesional.  
+Soy **Técnico en Desarrollo de Software** y **Desarrollador Full Stack**, especializado en crear aplicaciones web responsivas, escalables y con una experiencia de usuario óptima.  
+
+Mi enfoque está en construir proyectos de calidad profesional aplicando **arquitectura limpia (Clean Architecture)**, **buenas prácticas de código**, y metodologías modernas como **TDD (Test Driven Development)**.  
 
 Siempre estoy aprendiendo nuevas tecnologías para mejorar mis habilidades y contribuir al mundo del desarrollo web.  
 
@@ -26,6 +27,8 @@ Siempre estoy aprendiendo nuevas tecnologías para mejorar mis habilidades y con
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>  
@@ -34,7 +37,9 @@ Siempre estoy aprendiendo nuevas tecnologías para mejorar mis habilidades y con
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-1E1E1E?style=for-the-badge&logo=archlinux&logoColor=white" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/TDD-25A162?style=for-the-badge&logo=jest&logoColor=white" alt="TDD" />
 </p>  
 
 ### 💾 **Bases de datos**  
@@ -43,8 +48,9 @@ Siempre estoy aprendiendo nuevas tecnologías para mejorar mis habilidades y con
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>  
 
-### 🛠️ **Herramientas y otras tecnologías**  
+### ⚙️ **Herramientas y otras tecnologías**  
 <p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>  
@@ -58,5 +64,5 @@ Siempre estoy aprendiendo nuevas tecnologías para mejorar mis habilidades y con
 
 ---
 
-### Gracias por visitar mi perfil ✨  
+### ✨ Gracias por visitar mi perfil  
 ¡No dudes en contactarme o explorar mis repositorios!  
