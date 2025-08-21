@@ -64,16 +64,7 @@ Siempre estoy aprendiendo nuevas tecnologías para mejorar mis habilidades y con
 
 ---
 
-## 📊 Mis contribuciones en GitHub
-<p align="center">
-  <img src="https://github.com/AlejandroPerren/AlejandroPerren/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroPerren&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</p>
-
----
 
 ### ✨ Gracias por visitar mi perfil  
 ¡No dudes en contactarme o explorar mis repositorios!  
