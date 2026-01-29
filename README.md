@@ -37,7 +37,7 @@ Siempre estoy aprendiendo nuevas tecnologías para mejorar mis habilidades y con
 <p align="center"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> </p> <p align="center"> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" /> <img src="https://img.shields.io/badge/Clean%20Architecture-1E1E1E?style=for-the-badge&logo=archlinux&logoColor=white" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white" /> </p>
 
 ### 💾 **Bases de datos**  
-<p align="center"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> </p>  
+<p align="center"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> </p>
 
 ### ⚙️ **Herramientas y otras tecnologías**  
 <p align="center">
